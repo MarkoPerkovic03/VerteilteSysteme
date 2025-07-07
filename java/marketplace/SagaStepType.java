@@ -1,0 +1,6 @@
+public enum SagaStepType {
+    COMPENSATING,
+    PARTICIPANT,
+    ORCHESTRATOR,
+    COORDINATOR
+}
